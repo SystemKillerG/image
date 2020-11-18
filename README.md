@@ -1,0 +1,16 @@
+# image
+Fotografije za testiranja i probe
+![close](https://user-images.githubusercontent.com/74489673/99590528-be340400-29ed-11eb-8fea-9dcb8a8d4365.png)
+![img1](https://user-images.githubusercontent.com/74489673/99590531-becc9a80-29ed-11eb-99cc-1e2abb482e02.jpg)
+![img1small](https://user-images.githubusercontent.com/74489673/99590539-c2602180-29ed-11eb-9d19-b5bbe582ebb0.jpg)
+![img2](https://user-images.githubusercontent.com/74489673/99590540-c2602180-29ed-11eb-8ca7-58e0690a0422.jpg)
+![img2small](https://user-images.githubusercontent.com/74489673/99590541-c3914e80-29ed-11eb-8859-fb9b4e844563.jpg)
+![img3](https://user-images.githubusercontent.com/74489673/99590542-c3914e80-29ed-11eb-8e33-af8b46f47bc7.jpg)
+![img3small](https://user-images.githubusercontent.com/74489673/99590544-c429e500-29ed-11eb-8911-de1c7b5eca78.jpg)
+![img4](https://user-images.githubusercontent.com/74489673/99590545-c429e500-29ed-11eb-8b08-2826c1b91fea.jpg)
+![img4small](https://user-images.githubusercontent.com/74489673/99590547-c4c27b80-29ed-11eb-9158-1a391428a5f3.jpg)
+![img5](https://user-images.githubusercontent.com/74489673/99590549-c55b1200-29ed-11eb-834b-c22ca781c66c.jpg)
+![img5small](https://user-images.githubusercontent.com/74489673/99590550-c5f3a880-29ed-11eb-9fdc-9321a9c33175.jpg)
+![loading](https://user-images.githubusercontent.com/74489673/99590552-c5f3a880-29ed-11eb-85dc-7f3960e445ad.gif)
+![next](https://user-images.githubusercontent.com/74489673/99590553-c5f3a880-29ed-11eb-99bf-58577268b9db.png)
+![prev](https://user-images.githubusercontent.com/74489673/99590555-c68c3f00-29ed-11eb-9864-e1fb1b2e4eaf.png)
